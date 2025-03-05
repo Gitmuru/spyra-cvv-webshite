@@ -1,0 +1,19 @@
+*{
+  background-color: #ff9999;
+  font-family: "Roboto Sans";
+}
+
+#Title {
+  font-weight: bold;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+#Description {
+  color: inherit;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+
+}
