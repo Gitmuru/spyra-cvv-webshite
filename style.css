@@ -10,10 +10,16 @@
   justify-content: center;
 }
 
-#Description {
+#description {
   color: inherit;
   display: flex;
   justify-content: center;
   font-weight: bold;
 
+}
+
+#box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
